@@ -6,4 +6,4 @@ title: Research
 Incident-backed smart-contract security research and audit notes.
 
 **Need an audit or a second opinion on a Solidity contract?**
-Email **info@boogiemanmarketing.com** for a free 30-minute oracle-safety review.
+Email **klashkaan@gmail.com** for a free 30-minute oracle-safety review.

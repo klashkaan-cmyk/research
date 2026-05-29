@@ -93,6 +93,6 @@ A "yes" on #1–#3 with a "no" on #4–#6 is an exploit waiting for its transact
 
 ## Get a second set of eyes
 
-Read-only reentrancy is exactly the kind of bug a checklist-driven review misses and an attacker doesn't — it lives in the gap between your contract and the ones you integrate with. If your protocol prices LP tokens, integrates Curve/Balancer-style pools, or reads any external view to value collateral, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll trace every external read your accounting depends on and tell you which ones can be made to lie.
+Read-only reentrancy is exactly the kind of bug a checklist-driven review misses and an attacker doesn't — it lives in the gap between your contract and the ones you integrate with. If your protocol prices LP tokens, integrates Curve/Balancer-style pools, or reads any external view to value collateral, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll trace every external read your accounting depends on and tell you which ones can be made to lie.
 
 The dangerous reentrancy isn't always the one that writes. Sometimes it's the one that just answers a question.

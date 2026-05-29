@@ -99,6 +99,6 @@ A "no" or "not sure" on #1, #2, or #3 is how money gets frozen forever.
 
 ## Get a second set of eyes
 
-Proxy and upgrade bugs don't steal funds — they freeze them, irreversibly, and they hide in deployment scripts and storage layouts where a quick code skim won't catch them. If you run any upgradeable contract — UUPS, Transparent, diamond, or a custom proxy — **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll check your initializers, your `selfdestruct` surface, your storage layout, and your upgrade authority against the checklist above.
+Proxy and upgrade bugs don't steal funds — they freeze them, irreversibly, and they hide in deployment scripts and storage layouts where a quick code skim won't catch them. If you run any upgradeable contract — UUPS, Transparent, diamond, or a custom proxy — **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll check your initializers, your `selfdestruct` surface, your storage layout, and your upgrade authority against the checklist above.
 
 The most expensive line of code is the initializer you forgot to lock.

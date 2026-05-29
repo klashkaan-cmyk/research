@@ -98,6 +98,6 @@ A "no" or "not sure" on any of these is where the next $100M leaves.
 
 ## Get a second set of eyes
 
-Bridges and cross-chain messaging are the highest-stakes code in the industry, and the failure modes are specific: trust-set design, signature/proof verification, initialization, and privileged-function reachability. If you're building or operating a bridge, a messaging layer, or any cross-chain protocol, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll map your trust model and verification path against the checklist above and tell you which bucket would take you down.
+Bridges and cross-chain messaging are the highest-stakes code in the industry, and the failure modes are specific: trust-set design, signature/proof verification, initialization, and privileged-function reachability. If you're building or operating a bridge, a messaging layer, or any cross-chain protocol, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll map your trust model and verification path against the checklist above and tell you which bucket would take you down.
 
 In bridges, the question is never "is the code correct." It's "what does it trust, and can that be forged."

@@ -147,6 +147,6 @@ If you can't answer all nine with confidence, the price your protocol trusts is 
 
 ## Get a second set of eyes
 
-We audit DeFi protocols for exactly this class of bug — oracle design, flash-loan attack surface, collateral and liquidation logic. If you're shipping anything that reads a price, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute oracle-safety review.** We'll walk your price inputs against the checklist above and tell you straight where you're exposed.
+We audit DeFi protocols for exactly this class of bug — oracle design, flash-loan attack surface, collateral and liquidation logic. If you're shipping anything that reads a price, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute oracle-safety review.** We'll walk your price inputs against the checklist above and tell you straight where you're exposed.
 
 Price is not truth. Make sure your contracts know the difference.

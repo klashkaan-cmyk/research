@@ -85,6 +85,6 @@ A "no" on #1 or #2 means your treasury is for rent.
 
 ## Get a second set of eyes
 
-On-chain governance is code, and code that controls a treasury deserves the same scrutiny as the treasury itself. If your protocol has token voting, a timelock, an emergency execution path, or proposals that can move funds, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll model what it costs an attacker to rent a controlling vote and trace exactly what a passed proposal is allowed to do.
+On-chain governance is code, and code that controls a treasury deserves the same scrutiny as the treasury itself. If your protocol has token voting, a timelock, an emergency execution path, or proposals that can move funds, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll model what it costs an attacker to rent a controlling vote and trace exactly what a passed proposal is allowed to do.
 
 Decentralized governance is a security boundary. Treat a vote like a transaction — because to an attacker, that's all it is.

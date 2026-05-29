@@ -111,6 +111,6 @@ Item 9 is the cheapest insurance in this entire list: a test that says "a random
 
 ## Get a second set of eyes
 
-Access control is the most common bug because it's a coverage problem — one missed modifier in a large surface. The fix is systematic enumeration, and that's exactly what an external review provides. If your protocol has owners, roles, initializers, or any privileged function, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll enumerate every privileged entry point and confirm each one is reachable only by who you intend.
+Access control is the most common bug because it's a coverage problem — one missed modifier in a large surface. The fix is systematic enumeration, and that's exactly what an external review provides. If your protocol has owners, roles, initializers, or any privileged function, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll enumerate every privileged entry point and confirm each one is reachable only by who you intend.
 
 The question is never whether your logic is clever. It's *who can call it* — and whether you've actually checked.

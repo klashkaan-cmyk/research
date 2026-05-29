@@ -117,6 +117,6 @@ If you can't answer #1 and #2 cleanly, your vault is exploitable by its very fir
 
 ## Get a second set of eyes
 
-We audit vaults, lending markets, and any contract that does share-based accounting — the exact place this class of bug hides. If you're shipping an ERC-4626 vault or anything that mints proportional shares, **email [info@boogiemanmarketing.com](mailto:info@boogiemanmarketing.com) for a free 30-minute review.** We'll trace your deposit/withdraw math and rounding against the checklist above and show you where a first depositor could walk off with the pool.
+We audit vaults, lending markets, and any contract that does share-based accounting — the exact place this class of bug hides. If you're shipping an ERC-4626 vault or anything that mints proportional shares, **email [klashkaan@gmail.com](mailto:klashkaan@gmail.com) for a free 30-minute review.** We'll trace your deposit/withdraw math and rounding against the checklist above and show you where a first depositor could walk off with the pool.
 
 The first deposit into your vault should be a milestone — not an exploit.
