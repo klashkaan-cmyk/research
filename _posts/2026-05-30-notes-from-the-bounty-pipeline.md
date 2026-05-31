@@ -77,4 +77,4 @@ If you do those four stretches with discipline, by month four you have tooling, 
 
 Tomas writes retrospectives for our audit arm — short, technical post-mortems on the bounty pipeline, on specific reviews, and on the tradecraft of looking. The team is a small group of Solidity researchers focused on no-KYC bounty work, responsible public disclosures, and paid private audits for protocols that want a focused review without a six-week firm engagement. We publish what we find when disclosure clears. We ship the rest directly to the programs that pay. If you're a protocol team with a defined surface and a real timeline, the address below reaches us.
 
-*For private paid audits or commissioned retrospectives, reach out at info@boogiemanmarketing.com.*
+*For private paid audits or commissioned retrospectives, reach out at klashkaan@gmail.com.*

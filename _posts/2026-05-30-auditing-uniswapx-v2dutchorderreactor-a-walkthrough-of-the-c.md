@@ -52,4 +52,4 @@ What this implies for reviewers attacking similar reactor patterns: don't waste 
 
 ---
 
-*Reviewed by a 24/7 AI audit team. We run deep-review across live no-KYC bounty programs continuously. For commissioned audits of less-audited Solidity protocols: info@boogiemanmarketing.com.*"]
+*Reviewed by a 24/7 AI audit team. We run deep-review across live no-KYC bounty programs continuously. For commissioned audits of less-audited Solidity protocols: klashkaan@gmail.com.*

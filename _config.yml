@@ -2,5 +2,4 @@ title: Khalid Vance Research
 description: Smart-contract security research, incident analysis, and audit notes.
 theme: minima
 permalink: /:year/:month/:day/:title/
-author:
-  name: Khalid Vance
+author: Khalid Vance
