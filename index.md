@@ -1,9 +1,6 @@
 ---
 layout: home
-title: Research
+title: The WFH Ergonomics Guide
 ---
 
-Incident-backed smart-contract security research and audit notes.
-
-**Need an audit or a second opinion on a Solidity contract?**
-Email **klashkaan@gmail.com** for a free 30-minute oracle-safety review.
+Practical, evidence-based guides to home-office ergonomics — protect your back, wrists, and neck while working from home, with honest gear breakdowns worth your money.

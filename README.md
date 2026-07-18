@@ -1,4 +1,4 @@
-# Khalid Vance Research
+# The WFH Ergonomics Guide
 
-Smart-contract security research blog. Published via GitHub Pages (Jekyll).
+Home-office ergonomics content site. Published via GitHub Pages (Jekyll).
 Live site: https://klashkaan-cmyk.github.io/research/
